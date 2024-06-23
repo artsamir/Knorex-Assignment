@@ -8,9 +8,11 @@ o x=-123, return -321
 o x=120, return 21
 
 *Solution:*
+
 import java.util.Scanner;
 
 public class ReverseNumber{
+
     public static int reverse(int num){
         int rev = 0;
         
